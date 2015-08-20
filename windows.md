@@ -133,7 +133,7 @@
 #### TODO:
   - [ ] Add Instructions to install VirtualBox guest additions
 
-  
+
 [vbox-win-install]:http://download.virtualbox.org/virtualbox/5.0.2/VirtualBox-5.0.2-102096-Win.exe
 [ubuntu-download]:http://www.ubuntu.com/download/desktop
 [vt-xsearch]:https://www.google.com/search?q=enable+intel%C2%AE+virtualization+technology
@@ -141,26 +141,26 @@
 [what-is-swap]:http://askubuntu.com/questions/508870/what-is-a-swap-area
 
 
-[img-01]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/01-vb-install.png
-[img-02]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/02-download-ubuntu.png
-[img-03]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/03-new-vm-wizard.png
-[img-04]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/04-vm-name.png
-[img-05]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/
-[img-06]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/06-vm-create-hdd.png
-[img-07]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/07-vm-hdd-type.png
-[img-08]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/08-vm-storage-mode.png
-[img-09]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/09-vm-hdd-size.png
-[img-10]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/10-vm-load-iso.png
-[img-11]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/11-vm-load-iso-1.png
-[img-12]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/12-vm-load-iso-2.png
-[img-13]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/13-vm-load-iso-3.png
-[img-14]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/14-vm-start.png
-[img-15]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/15-ubuntu-install.png
-[img-16]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/16-ubuntu-install-1.png
-[img-17]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/17-ubuntu-install-2.png
-[img-18]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/18-ubuntu-install-3.png
-[img-19]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/19-ubuntu-install-4.png
-[img-20]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/20-ubuntu-install-5.png
-[img-21]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/21-ubuntu-install-6.png
-[img-22]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/22-ubuntu-install-7.png
-[img-23]:https://raw.githubusercontent.com/MakersSweden/VirtualBox/screenshots/virtual-box-windows/23-ubuntu-install-8.png
+[img-01]:/../screenshots/virtual-box-windows/01-vb-install.png?raw=true
+[img-02]:/../screenshots/virtual-box-windows/02-download-ubuntu.png?raw=true
+[img-03]:/../screenshots/virtual-box-windows/03-new-vm-wizard.png?raw=true
+[img-04]:/../screenshots/virtual-box-windows/04-vm-name.png?raw=true
+[img-05]:
+[img-06]:/../screenshots/virtual-box-windows/06-vm-create-hdd.png?raw=true
+[img-07]:/../screenshots/virtual-box-windows/07-vm-hdd-type.png?raw=true
+[img-08]:/../screenshots/virtual-box-windows/08-vm-storage-mode.png?raw=true
+[img-09]:/../screenshots/virtual-box-windows/09-vm-hdd-size.png?raw=true
+[img-10]:/../screenshots/virtual-box-windows/10-vm-load-iso.png?raw=true
+[img-11]:/../screenshots/virtual-box-windows/11-vm-load-iso-1.png?raw=true
+[img-12]:/../screenshots/virtual-box-windows/12-vm-load-iso-2.png?raw=true
+[img-13]:/../screenshots/virtual-box-windows/13-vm-load-iso-3.png?raw=true
+[img-14]:/../screenshots/virtual-box-windows/14-vm-start.png?raw=true
+[img-15]:/../screenshots/virtual-box-windows/15-ubuntu-install.png?raw=true
+[img-16]:/../screenshots/virtual-box-windows/16-ubuntu-install-1.png?raw=true
+[img-17]:/../screenshots/virtual-box-windows/17-ubuntu-install-2.png?raw=true
+[img-18]:/../screenshots/virtual-box-windows/18-ubuntu-install-3.png?raw=true
+[img-19]:/../screenshots/virtual-box-windows/19-ubuntu-install-4.png?raw=true
+[img-20]:/../screenshots/virtual-box-windows/20-ubuntu-install-5.png?raw=true
+[img-21]:/../screenshots/virtual-box-windows/21-ubuntu-install-6.png?raw=true
+[img-22]:/../screenshots/virtual-box-windows/22-ubuntu-install-7.png?raw=true
+[img-23]:/../screenshots/virtual-box-windows/23-ubuntu-install-8.png?raw=true
