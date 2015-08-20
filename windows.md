@@ -1,10 +1,10 @@
 # How to Install Ubuntu 14.04 LTS on Oracle Virtual Box
 
-1. Step 1: Download [VirtualBox Windows Installer](vbox-win-install) and Install it.
+1. Step 1: Download [VirtualBox Windows Installer][vbox-win-install] and Install it.
 
   ![Virtual Box installation][img-01]
 
-2. Step 2: Download a copy of [Ubuntu from here](ubuntu-download)
+2. Step 2: Download a copy of [Ubuntu from here][ubuntu-download]
 
   Select between 32 or 64-bits version depending on your system architecture.
 
@@ -26,7 +26,7 @@
 
     Select the version of ubuntu that matches the version you downloaded at step 2.
 
-    >  **Note:** In this case, i downloaded the 32-bit version of Ubuntu. If you don't have `Ubuntu (64-bit)` listed you might have to enable `intel® VT-x technology` on your computer. A quick [Google search](vt-xsearch) will help you find out how to do that for your particular computer.
+    >  **Note:** In this case, i downloaded the 32-bit version of Ubuntu. If you don't have `Ubuntu (64-bit)` listed you might have to enable `intel® VT-x technology` on your computer. A quick [Google search][vt-xsearch] will help you find out how to do that for your particular computer.
 
     Then click 'Next'
 
@@ -64,7 +64,7 @@
 
       ![load ISO cntd.][img-11]
 
-    - In the explorer windows, navigate to the location where you saved the ubuntu ISO from [Step 2](step-2)
+    - In the explorer windows, navigate to the location where you saved the ubuntu ISO from [Step 2][step-2]
 
       ![select ubuntu iso file][img-12]
 
@@ -100,7 +100,7 @@
 
     ![Ubuntu install step 3][img-19]
 
-  First we'll create a [Swap area](what-is-swap). Click the `+` sign to open the `Create partition` dialog
+  First we'll create a [Swap area][what-is-swap]. Click the `+` sign to open the `Create partition` dialog
 
     ![Ubuntu install step 4][img-20]
 
@@ -134,33 +134,33 @@
   - [ ] Add Instructions to install VirtualBox guest additions
 
 
-[vbox-win-install]:http://download.virtualbox.org/virtualbox/5.0.2/VirtualBox-5.0.2-102096-Win.exe
-[ubuntu-download]:http://www.ubuntu.com/download/desktop
-[vt-xsearch]:https://www.google.com/search?q=enable+intel%C2%AE+virtualization+technology
+[vbox-win-install]: http://download.virtualbox.org/virtualbox/5.0.2/VirtualBox-5.0.2-102096-Win.exe
+[ubuntu-download]: http://www.ubuntu.com/download/desktop
+[vt-xsearch]: https://www.google.com/search?q=enable+intel%C2%AE+virtualization+technology
+[what-is-swap]: http://askubuntu.com/questions/508870/what-is-a-swap-area
 [step-2]:
-[what-is-swap]:http://askubuntu.com/questions/508870/what-is-a-swap-area
 
 
-[img-01]:/../screenshots/virtual-box-windows/01-vb-install.png?raw=true
-[img-02]:/../screenshots/virtual-box-windows/02-download-ubuntu.png?raw=true
-[img-03]:/../screenshots/virtual-box-windows/03-new-vm-wizard.png?raw=true
-[img-04]:/../screenshots/virtual-box-windows/04-vm-name.png?raw=true
-[img-05]:
-[img-06]:/../screenshots/virtual-box-windows/06-vm-create-hdd.png?raw=true
-[img-07]:/../screenshots/virtual-box-windows/07-vm-hdd-type.png?raw=true
-[img-08]:/../screenshots/virtual-box-windows/08-vm-storage-mode.png?raw=true
-[img-09]:/../screenshots/virtual-box-windows/09-vm-hdd-size.png?raw=true
-[img-10]:/../screenshots/virtual-box-windows/10-vm-load-iso.png?raw=true
-[img-11]:/../screenshots/virtual-box-windows/11-vm-load-iso-1.png?raw=true
-[img-12]:/../screenshots/virtual-box-windows/12-vm-load-iso-2.png?raw=true
-[img-13]:/../screenshots/virtual-box-windows/13-vm-load-iso-3.png?raw=true
-[img-14]:/../screenshots/virtual-box-windows/14-vm-start.png?raw=true
-[img-15]:/../screenshots/virtual-box-windows/15-ubuntu-install.png?raw=true
-[img-16]:/../screenshots/virtual-box-windows/16-ubuntu-install-1.png?raw=true
-[img-17]:/../screenshots/virtual-box-windows/17-ubuntu-install-2.png?raw=true
-[img-18]:/../screenshots/virtual-box-windows/18-ubuntu-install-3.png?raw=true
-[img-19]:/../screenshots/virtual-box-windows/19-ubuntu-install-4.png?raw=true
-[img-20]:/../screenshots/virtual-box-windows/20-ubuntu-install-5.png?raw=true
-[img-21]:/../screenshots/virtual-box-windows/21-ubuntu-install-6.png?raw=true
-[img-22]:/../screenshots/virtual-box-windows/22-ubuntu-install-7.png?raw=true
-[img-23]:/../screenshots/virtual-box-windows/23-ubuntu-install-8.png?raw=true
+[img-01]: /../screenshots/virtual-box-windows/01-vb-install.png?raw=true
+[img-02]: /../screenshots/virtual-box-windows/02-download-ubuntu.png?raw=true
+[img-03]: /../screenshots/virtual-box-windows/03-new-vm-wizard.png?raw=true
+[img-04]: /../screenshots/virtual-box-windows/04-vm-name.png?raw=true
+[img-05]: /../screenshots/virtual-box-windows/05-vm-memory-size.png?raw=true
+[img-06]: /../screenshots/virtual-box-windows/06-vm-create-hdd.png
+[img-07]: /../screenshots/virtual-box-windows/07-vm-hdd-type.png?raw=true
+[img-08]: /../screenshots/virtual-box-windows/08-vm-storage-mode.png?raw=true
+[img-09]: /../screenshots/virtual-box-windows/09-vm-hdd-size.png?raw=true
+[img-10]: /../screenshots/virtual-box-windows/10-vm-load-iso.png?raw=true
+[img-11]: /../screenshots/virtual-box-windows/11-vm-load-iso-1.png?raw=true
+[img-12]: /../screenshots/virtual-box-windows/12-vm-load-iso-2.png?raw=true
+[img-13]: /../screenshots/virtual-box-windows/13-vm-load-iso-3.png?raw=true
+[img-14]: /../screenshots/virtual-box-windows/14-vm-start.png?raw=true
+[img-15]: /../screenshots/virtual-box-windows/15-ubuntu-install.png?raw=true
+[img-16]: /../screenshots/virtual-box-windows/16-ubuntu-install-1.png?raw=true
+[img-17]: /../screenshots/virtual-box-windows/17-ubuntu-install-2.png?raw=true
+[img-18]: /../screenshots/virtual-box-windows/18-ubuntu-install-3.png?raw=true
+[img-19]: /../screenshots/virtual-box-windows/19-ubuntu-install-4.png?raw=true
+[img-20]: /../screenshots/virtual-box-windows/20-ubuntu-install-5.png?raw=true
+[img-21]: /../screenshots/virtual-box-windows/21-ubuntu-install-6.png?raw=true
+[img-22]: /../screenshots/virtual-box-windows/22-ubuntu-install-7.png?raw=true
+[img-23]: /../screenshots/virtual-box-windows/23-ubuntu-install-8.png?raw=true
